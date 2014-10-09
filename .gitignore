@@ -1,3 +1,5 @@
 *.jar
 *.iml
 target/*
+*.project
+*.classpath
